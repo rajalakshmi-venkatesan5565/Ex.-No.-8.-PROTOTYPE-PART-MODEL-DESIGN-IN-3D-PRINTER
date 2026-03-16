@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/rajalakshmi-venkatesan5565/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/blob/main/Screenshot%202026-03-16%20215716.png?raw=true)
+
 ### Name:RAJALAKSHMI V
 ### Register Number:212225040327
 
